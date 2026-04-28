@@ -46,11 +46,8 @@ The project work was divided among team members as follows:
 All members collaborated during integration, testing, and debugging to ensure the application functioned correctly.
 ---
 
-## 📂 Project Structure
-```text
-app/src/main/java/com/example/budgetapp/
-├── activities/       # UI Controllers (Login, Dashboard, AddExpense)
-├── adapters/         # RecyclerView Adapters for transaction lists
-├── models/           # Data Blueprints (ExpenseEntry, Category, Goal)
-└── network/          # Firebase Manager and Database helpers
+
+<img width="448" height="536" alt="Screenshot 2026-04-28 224321" src="https://github.com/user-attachments/assets/70a698d7-38ff-49d7-8749-545df3c6300a" />
+<img width="1914" height="1016" alt="Screenshot 2026-04-28 223048" src="https://github.com/user-attachments/assets/01151450-5dab-417a-8cb1-27bacb53087f" />
+<img width="1919" height="1016" alt="Screenshot 2026-04-28 223029" src="https://github.com/user-attachments/assets/43c2c9b5-d2b4-476d-921f-a75df7e99ef3" />
 
